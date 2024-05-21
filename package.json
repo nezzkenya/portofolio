@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-lottie": "^1.2.4"
+  }
+}
